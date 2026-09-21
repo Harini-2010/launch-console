@@ -1,2 +1,2 @@
 # launch-console
-print("hi")
+print("hello")
